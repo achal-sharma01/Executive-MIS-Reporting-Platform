@@ -30,7 +30,7 @@ This repository showcases the Executive MIS Reporting & Analytics Platform that 
 
 The complete internship work can be viewed here:
 
-**📥 [Executive MIS Reporting & Analytics Platform Portfolio](Executive_MIS_Reporting_Analytics_Platfrom.pdf)**
+**📥 [Executive MIS Reporting & Analytics Platform](Executive_MIS_Reporting_Analytics_Platfrom.pdf)**
 
 ## 📌 Note
 
