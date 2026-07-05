@@ -26,7 +26,7 @@ This repository showcases the Executive MIS Reporting & Analytics Platform that 
 - Google Apps Script
 - Advanced Excel
 
-## 📄 Portfolio
+## 📄 
 
 The complete internship work can be viewed here:
 
